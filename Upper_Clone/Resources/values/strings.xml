@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">WagheetyRider</string>
+  <string name="action_settings">Settings</string>
+  <string name="Click_here">Not Registered, Click to Register</string>
+  <string name="Click_Login">Not Registered, Click to Login</string>
+  <string name="MapKey">AIzaSyAlnhsIFFUEIHsD1cpHNM94LMsqt6cD_iw</string>
+</resources>
